@@ -185,5 +185,23 @@
 
     .why-us .container {
         background-color: black;
+        padding-top: 40px;
     }
+
+
+    .steps.text-center {
+        margin: 3rem 0 0 0; 
+       
+
+    }
+
+   .why-us {
+    margin-bottom: 0;
+   }
+
+   .why-us  .col.col-right {
+    padding-bottom: 40px;
+   }
+
+ 
 }
