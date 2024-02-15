@@ -128,7 +128,8 @@
      SOLUZIONE RESPONSIVE
   ************************************************/
   .container {
-     max-width: 100%;
+     width: 100%;
+     max-width: 1140px;
  } 
   
   /* - tablet: dai 768px in giù (compreso) */
