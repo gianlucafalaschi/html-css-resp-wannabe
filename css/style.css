@@ -127,9 +127,9 @@
  /************************************************
      SOLUZIONE RESPONSIVE
   ************************************************/
-/*  .container {
-     max-width: 1140px;
- } */
+  .container {
+     max-width: 100%;
+ } 
   
   /* - tablet: dai 768px in giù (compreso) */
  
